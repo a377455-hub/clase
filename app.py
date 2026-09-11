@@ -5,4 +5,5 @@ st.title("Aplicación ;o")
 st.button("hacer click aqui")
 
 st.balloons()
-st.snowflake()
+
+st.snow()
